@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/filmDB-frontend/static/css/main.1453a48e.css",
+    "main.js": "/filmDB-frontend/static/js/main.504561c6.js",
+    "static/js/787.1394e6e2.chunk.js": "/filmDB-frontend/static/js/787.1394e6e2.chunk.js",
+    "index.html": "/filmDB-frontend/index.html",
+    "main.1453a48e.css.map": "/filmDB-frontend/static/css/main.1453a48e.css.map",
+    "main.504561c6.js.map": "/filmDB-frontend/static/js/main.504561c6.js.map",
+    "787.1394e6e2.chunk.js.map": "/filmDB-frontend/static/js/787.1394e6e2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1453a48e.css",
+    "static/js/main.504561c6.js"
+  ]
+}
